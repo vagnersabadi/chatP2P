@@ -1,0 +1,16 @@
+ChatClientSwing$Usuario
+ChatClientSwing$ThreadRecebeSonda
+ChatClientSwing
+ChatClientSwing$PainelChatPVT
+ChatClientSwing$ThreadVerificaListaDeUsuarios
+ChatClientSwing$StatusUsuario
+ChatClientSwing$4$1
+ChatClientSwing$5
+ChatClientSwing$PainelChatPVT$1
+ChatClientSwing$3
+ChatClientSwing$ThreadRecebeMensagemChat
+ChatClientSwing$4
+ChatClientSwing$1
+ChatClientSwing$2
+ChatClientSwing$ThreadEnviaSonda
+ChatClientSwing$ThreadRecebeConversa

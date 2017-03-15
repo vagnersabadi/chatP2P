@@ -1,2 +1,2 @@
 # chatP2P
-Chat Peer To Peer com interface para trabalho de redes de computadores
+Chat peer to peer em java desktop
